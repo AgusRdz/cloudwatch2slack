@@ -6,7 +6,7 @@ There exists Slack integrations for everything but sometimes you need something 
 
 ### A custom integration, what is it?
 
-> Incoming webhooks are a simple way to share information from external sources with your workspace. [Slack Help Center]([Incoming webhooks for Slack](https://slack.com/intl/en-mx/help/articles/115005265063-Incoming-webhooks-for-Slack))
+> Incoming webhooks are a simple way to share information from external sources with your workspace. [Slack Help Center](https://slack.com/intl/en-mx/help/articles/115005265063-Incoming-webhooks-for-Slack)
 
 The API to create an integration it is very complete, of course it depends on the things you want to create but it covering enough to solve all needs.
 In other hand, is a way to have total control under your information and the format used to display it in your Slack workspace.
